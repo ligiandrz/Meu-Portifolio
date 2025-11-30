@@ -97,7 +97,7 @@ nav a {
 
 .sobre, .habilidades {
     width: 40%;
-    text-align: center; /* ← centraliza título e texto */
+    text-align: center;
 }
 
 .sobre-hab h3 {
@@ -201,3 +201,4 @@ nav a {
     font-size: 14px;
     opacity: 0.75;
 }
+
